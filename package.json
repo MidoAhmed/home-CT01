@@ -42,7 +42,7 @@
     "eslint-plugin-typescript": "^0.14.0",
     "install": "^0.12.2",
     "nodemon": "^1.18.11",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "standard": "^12.0.1",
     "supertest": "^4.0.2",
     "typescript": "^3.2.1",
