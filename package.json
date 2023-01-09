@@ -18,7 +18,7 @@
   "dependencies": {
     "jest": "^24.7.1",
     "koa": "^2.7.0",
-    "koa-jwt": "^3.5.1",
+    "koa-jwt": "^4.0.4",
     "koa-router": "^7.4.0",
     "ts-jest": "^24.0.2",
     "ts-node": "^8.1.0"
